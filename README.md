@@ -6,3 +6,5 @@ Then, you can run a backtrace (`bt` gdb command) to get the line of code that pr
 ## Usage
 `gdb --command=output_breakpoint.py --args <executable_file>`
 
+## Others
+Legacy version using a gdb script: https://gist.github.com/iTrooz/cc2b7e676fa7e73b5c089c81bf76ac45
