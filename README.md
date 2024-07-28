@@ -8,5 +8,8 @@ This script uses syscalls to detect content written, so it should be compatible 
 ## Usage
 `gdb --command=output_breakpoint.py --args <executable_file>`
 
+## Licence
+GPL-2-or-later
+
 ## Others
 Legacy version using a gdb script: https://gist.github.com/iTrooz/cc2b7e676fa7e73b5c089c81bf76ac45 (only work with C/C++)
