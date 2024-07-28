@@ -4,4 +4,5 @@ This python script is a module for GDB that will trigger a breakpoint when a cer
 Then, you can run a backtrace (`bt` gdb command) to get the line of code that produced this text, or do anything else with the shell.
 
 ## Usage
-`gdb --command=stdout_breakpoint.py --args <executable_file>`
+`gdb --command=output_breakpoint.py --args <executable_file>`
+
