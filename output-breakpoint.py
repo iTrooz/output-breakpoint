@@ -2,7 +2,7 @@ import gdb
 
 
 # ----- CONFIG
-SEARCH_DATA = b"Hello"
+SEARCH_DATA = b"Hello" # Modify this to change the text to search for
 
 # ----- CODE
 
